@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Module 6\Instantiating\bin\Debug\net6.0\Instantiating.exe
+C:\Users\Admin\source\repos\Module 6\Instantiating\bin\Debug\net6.0\Instantiating.deps.json
+C:\Users\Admin\source\repos\Module 6\Instantiating\bin\Debug\net6.0\Instantiating.runtimeconfig.json
+C:\Users\Admin\source\repos\Module 6\Instantiating\bin\Debug\net6.0\Instantiating.dll
+C:\Users\Admin\source\repos\Module 6\Instantiating\bin\Debug\net6.0\Instantiating.pdb
+C:\Users\Admin\source\repos\Module 6\Instantiating\obj\Debug\net6.0\Instantiating.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Module 6\Instantiating\obj\Debug\net6.0\Instantiating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Module 6\Instantiating\obj\Debug\net6.0\Instantiating.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Module 6\Instantiating\obj\Debug\net6.0\Instantiating.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Module 6\Instantiating\obj\Debug\net6.0\Instantiating.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Module 6\Instantiating\obj\Debug\net6.0\Instantiating.dll
+C:\Users\Admin\source\repos\Module 6\Instantiating\obj\Debug\net6.0\refint\Instantiating.dll
+C:\Users\Admin\source\repos\Module 6\Instantiating\obj\Debug\net6.0\Instantiating.pdb
+C:\Users\Admin\source\repos\Module 6\Instantiating\obj\Debug\net6.0\Instantiating.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Module 6\Instantiating\obj\Debug\net6.0\ref\Instantiating.dll

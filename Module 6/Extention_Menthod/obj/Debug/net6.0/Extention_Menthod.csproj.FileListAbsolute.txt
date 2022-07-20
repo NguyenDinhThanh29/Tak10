@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Module 6\Extention_Menthod\obj\Debug\net6.0\Extention_Menthod.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Module 6\Extention_Menthod\obj\Debug\net6.0\Extention_Menthod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Module 6\Extention_Menthod\obj\Debug\net6.0\Extention_Menthod.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Module 6\Extention_Menthod\obj\Debug\net6.0\Extention_Menthod.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Module 6\Extention_Menthod\obj\Debug\net6.0\Extention_Menthod.csproj.CoreCompileInputs.cache
